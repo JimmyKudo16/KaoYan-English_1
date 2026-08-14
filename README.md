@@ -6,4 +6,5 @@
 
 还附带一张标准答题卡pdf文件以供打印使用
 
-由于github空间有限，现将文件放到百度网盘，通过网盘分享的文件：真题-考研英语一链接: https://pan.baidu.com/s/16dd51JeE4lDF_k4SsMDLTQ?pwd=edtb 提取码: edtb 
+由于github空间有限，现将文件放到百度网盘，通过网盘分享的文件：真题-考研英语一
+链接: https://pan.baidu.com/s/1NwRw0Asm1Vabdt6cSFQgNw?pwd=asgw 提取码: asgw 
